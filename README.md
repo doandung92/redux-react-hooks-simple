@@ -18,9 +18,3 @@
 3. Connect to redux store from component
 
 - Using the two hooks hehee 🎉# redux-react-hooks-simple
-# redux-react-hooks-simple
-# redux-react-hooks-simple
-# redux-react-hooks-simple
-# redux-react-hooks-simple
-# redux-react-hooks-simple
-# redux-react-hooks-simple
